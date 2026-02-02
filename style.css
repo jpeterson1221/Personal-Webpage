@@ -1,0 +1,81 @@
+@import "tailwindcss";
+body {
+    background-color: rgb(0, 0, 0);
+    text-align: center;
+}
+.bio {
+    font-family: fantasy;
+    font-size: 16px;
+    color:rgb(233, 88, 88);
+}
+.h1 {
+    
+    text-align: center;
+}  
+h2 {
+    display: inline;
+    color:rgb(233, 88, 88);
+    font-size: 480px;
+    font-family: fantasy;
+    margin: 10px;
+}
+.new_text {
+    color:rgb(115, 12, 219);;
+}
+.button {
+    background-color:white;
+    color: rgb(233, 88, 88);
+    padding: 5px 5px;
+    border: 2px solid rgb(233, 88, 88);
+    border-radius: 5px;
+    cursor: pointer;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+.container {
+    column-count: 2;
+}
+.image {
+    width: 100%;
+    max-width: 400px;
+    height: auto;
+    border: rgb(233, 88, 88) solid 4px;
+    border-radius: 50%;
+    margin: 32px auto;
+    display: block;
+}
+.sportImg{
+    width: 100%;
+    max-width: 300px;
+    height: auto;
+    margin: 32px 80px;
+    display: block;
+}
+.header {
+    font-size: 72px;
+    font-weight: bold;
+    color: #ff0f0f;
+
+}
+.imgtxt {
+    text-align: left;
+    font-size: 20px;
+    font-family: fantasy;
+    color:rgb(233, 88, 88);
+    max-width: 350px;
+    margin: 0 auto;
+}
+.flex-row {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 32px;
+}
+.h2-container {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    margin: 10px;
+    border: 2px solid #ffffff;
+
+}
