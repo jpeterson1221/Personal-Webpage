@@ -1,0 +1,30 @@
+{
+  "name": "assignment1-create-and-deploy-personal-web-page-jpeterson1221",
+  "version": "1.0.0",
+  "description": "[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/iY2knlqo)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ECU-Web-Development/assignment1-create-and-deploy-personal-web-page-jpeterson1221.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/ECU-Web-Development/assignment1-create-and-deploy-personal-web-page-jpeterson1221/issues"
+  },
+  "homepage": "https://github.com/ECU-Web-Development/assignment1-create-and-deploy-personal-web-page-jpeterson1221#readme",
+  "dependencies": {
+    "@tailwindcss/postcss": "^4.1.18",
+    "@tailwindcss/vite": "^4.1.18",
+    "postcss": "^8.5.6"
+  },
+  "devDependencies": {
+    "@tailwindcss/cli": "^4.1.18",
+    "tailwindcss": "^4.1.18"
+  }
+}
